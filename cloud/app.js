@@ -19,7 +19,7 @@ var mutil = require('cloud/mutil.js');
 var config = require('cloud/config.js');
 var _s = require('underscore.string');
 
-// App全局配置11
+// App全局配置1111
 if (__production) {
     app.set('views', 'cloud/views');    
 } else {

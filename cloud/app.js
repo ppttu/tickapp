@@ -57,13 +57,13 @@ var Ticket = AV.Object.extend('Ticket');
 var Thread = AV.Object.extend('Thread');
 var adminPrefix = 'AVOS Cloud -- ';
 var type2showMap = {
-    'ios': 'iOS SDK',
-    'android': 'Android SDK',
-    'javascript': 'JavaScript SDK',
-    'push': '消息推送',
-    'cloud': '云代码',
-    'stats': '统计',
-    'dashboard': '开发者平台',
+    'it': '技术部',
+    'pd': '产品部',
+    'service': '客服部',
+    'cfo': '财务部',
+    'coo': '运营部',
+    'caigou': '采购部',
+    'pinpai': '品牌部',
     'other': '其他'
 };
 
